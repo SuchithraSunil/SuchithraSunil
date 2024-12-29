@@ -1,4 +1,4 @@
-Hello 👋 I am SUCHITHRA SUNIL
+**Hello 👋 I am SUCHITHRA SUNIL**
   - 💞️ I'm a driven developer who enjoys tackling challenges and writing clean, efficient code.
   - 💻 My primary focus is on JavaScript, Python, React, Node.js, Express, and MongoDB.
   - 🤝 I'm excited to collaborate on open-source projects and contribute to the developer community.
